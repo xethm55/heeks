@@ -1,0 +1,24 @@
+[submodule "oce"]
+	path = oce
+	url = https://github.com/xethm55/oce.git
+[submodule "opencamlib"]
+	path = opencamlib
+	url = https://github.com/xethm55/opencamlib.git
+[submodule "heekscnc"]
+	path = heekscnc
+	url = https://github.com/xethm55/heekscnc.git
+[submodule "heekscad"]
+	path = heekscad
+	url = https://github.com/xethm55/heekscad.git
+[submodule "heeksart"]
+	path = heeksart
+	url = https://github.com/xethm55/heeksart.git
+[submodule "heekspython"]
+	path = heekspython
+	url = https://github.com/xethm55/heekspython.git
+[submodule "libarea"]
+	path = libarea
+	url = https://github.com/xethm55/libarea.git
+[submodule "libactp"]
+	path = libactp
+	url = https://github.com/xethm55/libactp.git
